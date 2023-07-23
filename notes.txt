@@ -1,0 +1,18 @@
+Local Storage
+
+---------------------------------------
+
+used to store data permanently for short period of time
+json / xml
+js data can be converted to JSON- To convert it to json - JSON.stringify()
+json data can be converted to JSON - JSON.parse()
+
+CRUD OPERATIONS
+C-Create - localStorage.setItem(key,value)
+R-Read   - localStorage.getItem(key)
+U-Update - localStorage.setItem(key,value)
+D-Delete - localStorage.removeItem(key)
+
+
+
+
